@@ -186,7 +186,7 @@ export default function Portfolio() {
           <Mail size={20} />
           Email Me
         </a>
-        <a href="https://www.linkedin.com/in/ashtyn-roberts" target="_blank" rel="noopener noreferrer" style={{
+        <a href="https://linkedin.com/in/ashtyn-roberts-3573592b0/" target="_blank" rel="noopener noreferrer" style={{
           display: 'flex',
           alignItems: 'center',
           gap: '10px',
@@ -809,7 +809,7 @@ export default function Portfolio() {
             }}>
               <Mail size={26} />
             </a>
-            <a href="https://www.linkedin.com/in/ashtyn-roberts" target="_blank" rel="noopener noreferrer" style={{ 
+            <a href="https://linkedin.com/in/ashtyn-roberts-3573592b0/" target="_blank" rel="noopener noreferrer" style={{ 
               color: 'white', 
               transition: 'all 0.3s',
               padding: '12px',
