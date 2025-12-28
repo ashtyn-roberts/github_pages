@@ -360,7 +360,7 @@ export default function Portfolio() {
         title: 'IT Intern',
         company: 'MMR Constructors Inc.',
         location: 'Baton Rouge, LA',
-        period: 'May 2024 to Present',
+        period: 'May 2024 to December 2025',
         emoji: '💼',
         duties: [
           'Receive phone calls from employees and clients and assist with device troubleshooting',
@@ -374,7 +374,7 @@ export default function Portfolio() {
         title: 'Department of Computer Science Systems Worker',
         company: 'Louisiana State University',
         location: 'Baton Rouge, LA',
-        period: 'February 2024 to Present',
+        period: 'February 2024 to December 2025',
         emoji: '🖥️',
         duties: [
           'Checking the functionality of labs',
@@ -847,7 +847,7 @@ export default function Portfolio() {
             </a>
           </div>
           <p style={{ color: '#94a3b8', fontSize: '15px', marginBottom: '8px' }}>Made with 💙 by Ashtyn Roberts</p>
-          <p style={{ color: '#64748b', fontSize: '14px' }}>© 2024 Ashtyn Roberts. All rights reserved.</p>
+          <p style={{ color: '#64748b', fontSize: '14px' }}>© 2025 Ashtyn Roberts. All rights reserved.</p>
         </div>
       </footer>
 
